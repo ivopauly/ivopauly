@@ -4,7 +4,7 @@
 
 Front-end developer & architect who likes to build cross-platform apps for iOS, Android and the Web. Mostly likes to manage these apps in the cloud by GCP or AWS tooling. Sometimes acts as full-stack JavaScript, Node, PHP, Dart or Flutter Developer... :rocket:
 
-Call it how you want but the main focus is JavaScript, just like to do some coding. By change I write about my learnings and experience on blogs and mainly focus on JavaScript.
+Call it how you want but the main focus is JavaScript, just like to do some coding related work.
 
 ## 🤓  Some statistics
 
@@ -19,24 +19,10 @@ Call it how you want but the main focus is JavaScript, just like to do some codi
 
 🇳🇱 I’m from the Netherlands 
 🔭 I’m currently working for Coolblue Home & Go as front-end architect
-🌱 I’m currently learning Capactior JS  
+🌱 I’m currently learning Capactior JS
+💬 Ask me about; JavaScript, Node, PHP, Dart or Flutter
 
 ## :link:	Stay in touch
 
 * Link me on [LinkedIn](https://www.linkedin.com/in/ivopauly/)  
 * Contact me at [ivopauly.com](https://www.ivopauly.com)
-
-<!--
-**ivopauly/ivopauly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

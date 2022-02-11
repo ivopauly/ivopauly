@@ -4,7 +4,7 @@ Full-stack JavaScript/PHP developer who likes to build cross-platform apps for i
 
 ## 🤓  Some statistics
 
-<a href="https://github.com/ivopauly/github-readme-stats" target="_blank">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivopauly" />
 </a>
 <a href="https://github.com/ivopauly/github-readme-stats" target="_blank">

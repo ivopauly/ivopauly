@@ -8,7 +8,7 @@ Full-stack JavaScript/PHP developer who likes to build cross-platform apps for i
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivopauly" />
 </a>
 <a href="https://github.com/ivopauly/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivopauly&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivopauly&langs_count=6&layout=compact" />
 </a>
 
 ## 🤔	Key takeaways

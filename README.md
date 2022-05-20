@@ -20,7 +20,7 @@ Call it how you want but the main focus is JavaScript, just like to do some codi
 ## 🤔	Key takeaways
 
 🇳🇱 I’m from the Netherlands   
-🔭 I’m currently working for Coolblue Home & Go as front-end architect   
+🔭 I’m currently working for Achmea as frontend developer   
 🌱 I’m currently learning Capactior JS   
 💬 Ask me about; JavaScript, Node, PHP, Dart or Flutter   
 

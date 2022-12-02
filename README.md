@@ -27,4 +27,4 @@ Call it how you want but the main focus is JavaScript, just like to do some codi
 ## :link:	Stay in touch
 
 * Link me on [LinkedIn](https://www.linkedin.com/in/ivopauly/)  
-* Contact me at [ivopauly.com](https://www.ivopauly.com)
+<!-- * Contact me at [ivopauly.com](https://www.ivopauly.com) -->

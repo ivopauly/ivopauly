@@ -1,12 +1,9 @@
 <!-- [![ivopauly_header](https://raw.githubusercontent.com/ivopauly/ivopauly/main/github_header.png)](https://ivopauly.com) -->
+### 🚀 DevOps Engineer & Scrum Master | Transforming Fintech through Cloud Innovation
 
-## Hey there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### 📍 The Netherlands | 🇳🇱 Native Dutch, business English 🇬🇧 | 🌐 AWS & Infrastructure by Code Enthusiast
 
-## 🚀 DevOps Engineer & Scrum Master | Transforming Fintech through Cloud Innovation
-
-## 📍 The Netherlands | 🇳🇱 Native Dutch, business English 🇬🇧 | 🌐 AWS & Infrastructure by Code Enthusiast
-
-## 👋 Hello! I'm passionate about orchestrating cutting-edge technology to revolutionize the Fintech landscape. With a decade of experience in IT development, I specialize in spearheading DevOps transformations and serving as a Scrum Master, thriving at the intersection of technology, strategy, and innovation.
+### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hello! I'm passionate about orchestrating cutting-edge technology to revolutionize the Fintech landscape. With a decade of experience in IT development, I specialize in spearheading DevOps transformations and serving as a Scrum Master, thriving at the intersection of technology, strategy, and innovation.
 
 ## 🌐 Current Focus:
 As a DevOps Engineer and Scrum Master, my expertise lies in architecting AWS-centric solutions, embracing the Infrastructure by Code ethos to streamline operations and drive scalability. I am committed to optimizing processes, enabling continuous integration, and fostering a culture of agility and collaboration.

@@ -1,12 +1,8 @@
-<!-- [![ivopauly_header](https://raw.githubusercontent.com/ivopauly/ivopauly/main/github_header.png)](https://ivopauly.com) -->
-### 🚀 DevOps Engineer & Scrum Master | Transforming Fintech through Cloud Innovation
-
-### 📍 The Netherlands | 🇳🇱 Native Dutch, business English 🇬🇧 | 🌐 AWS & Infrastructure by Code Enthusiast
-
-### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hello! I'm passionate about orchestrating cutting-edge technology to revolutionize the Fintech landscape. With a decade of experience in IT development, I specialize in spearheading DevOps transformations and serving as a Scrum Master, thriving at the intersection of technology, strategy, and innovation.
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hello!
+I'm passionate about orchestrating cutting-edge technology to revolutionize the Fintech landscape. With a decade of experience in IT development, I specialize in spearheading DevOps transformations and serving as a Scrum Master, thriving at the intersection of technology, strategy, and innovation.
 
 ## 🌐 Current Focus:
-As a DevOps Engineer and Scrum Master, my expertise lies in architecting AWS-centric solutions, embracing the Infrastructure by Code ethos to streamline operations and drive scalability. I am committed to optimizing processes, enabling continuous integration, and fostering a culture of agility and collaboration.
+As a DevOps Engineer and Scrum Master transforming Fintech through Cloud Innovation, my expertise lies in architecting AWS-centric solutions, embracing the Infrastructure by Code ethos to streamline operations and drive scalability. I am committed to optimizing processes, enabling continuous integration, and fostering a culture of agility and collaboration.
 
 ## 🔍 Versatile Skill Set:
 My background spans JavaScript-focused full stack development across web and mobile spheres, offering a robust foundation in crafting user-centric solutions. I have seamlessly transitioned into DevOps, leveraging this diverse experience to bridge development and operations for optimal efficiency.
@@ -23,12 +19,11 @@ Beyond my core role, I serve as a director in a specialized IT-services and cons
 - Full Stack Development in JavaScript, Node.js, PHP and Java
 - Agile Practices & Scrum Mastery
 - Strategic Technology Planning & Execution
+- 🌐 AWS & Infrastructure by Code Enthusiast
+- 📍 The Netherlands
+- 🇳🇱 Native Dutch, business English 🇬🇧
 
- ## 🤓  Some statistics
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivopauly" />
-</a> -->
+## 🤓  Some statistics
 <a href="https://github.com/ivopauly/github-readme-stats" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivopauly&langs_count=6&layout=compact" />
 </a>

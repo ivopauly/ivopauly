@@ -16,7 +16,7 @@ Beyond my core role, I serve as a director in a specialized IT-services and cons
 ## 🚀 Key Expertise:
 - AWS Infrastructure & Cloud Solutions
 - DevOps Methodologies & Continuous Integration
-- Full Stack Development in JavaScript, Node.js, PHP and Java
+- Full Stack Development in JavaScript, Node.js, Python and Java
 - Agile Practices & Scrum Mastery
 - Strategic Technology Planning & Execution
 - 🌐 AWS & Infrastructure by Code Enthusiast

@@ -35,5 +35,3 @@ I'm fervently dedicated to the concept of Infrastructure by Code, continuously s
 I'm enthusiastic about connecting with professionals who share a passion for innovation, Fintech disruption, and leveraging technology to drive impactful change. Reach out to explore potential collaborations or engage in discussions or to apply for a position at Code Garden!
 
 * Link me on [LinkedIn](https://www.linkedin.com/in/ivopauly/)
-
-"You will always harvest what you code…"

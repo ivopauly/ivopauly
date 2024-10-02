@@ -1,3 +1,10 @@
+## ℹ️ Info
+- 🚀 AWS & "You build it, you run it" Enthusiast 
+- 🌐 Cloud & Software Engineer @ Code Garden
+- 📍 The Netherlands
+- 🇳🇱 Native Dutch
+- 🇬🇧 English C1 (CEFR)
+
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hello!
 I'm passionate about leveraging cutting-edge technology to revolutionise the tech landscape. With over a decade of experience in IT development, I specialise in leading cloud transformations. I thrive at the intersection of technology, strategy, and innovation.
 
@@ -28,9 +35,3 @@ I'm fervently dedicated to the concept of Infrastructure by Code continuously se
 I'm enthusiastic about connecting with professionals who share a passion for innovation and leveraging technology to drive impactful change. Reach out to explore potential collaborations or to apply for a position at Code Garden!
 
 * Link me on [LinkedIn](https://www.linkedin.com/in/ivopauly/)
-
-- 🚀 AWS & "You build it, you run it" Enthusiast 
-- 🌐 Cloud & Software Engineer @ Code Garden
-- 📍 The Netherlands
-- 🇳🇱 Native Dutch
-- 🇬🇧 English C1 (CEFR)

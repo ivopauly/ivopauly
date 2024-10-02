@@ -12,7 +12,7 @@ I'm passionate about leveraging cutting-edge technology to revolutionise the tec
 As a Java DevOps Engineer and Scrum Master transforming Fintech through Cloud Innovation, my expertise lies in architecting AWS-centric solutions, embracing the Infrastructure by Code ethos to streamline operations and drive scalability. I am committed to optimizing processes, enabling continuous integration, and fostering a culture of agility and collaboration.
 
 ## 🔍 Versatile Skill Set:
-My background spans JavaScript-focused full stack development across web and mobile spheres, offering a robust foundation in crafting user-centric solutions. I have seamlessly transitioned into Cloud & Software Engineering, leveraging this diverse experience to bridge development and operations for optimal efficiency.
+My background spans JavaScript & Java focused full stack development across web and mobile spheres, offering a robust foundation in crafting user-centric solutions. I have seamlessly transitioned into Cloud & Software Engineering, leveraging this diverse experience to bridge development and operations for optimal efficiency.
 
 ## 💼 Seeking New Horizons:
 I'm open to exploring roles as a (Freelance) Cloud Engineer, DevOps Engineer, Software Engineer, Web3 Engineer, or IT Management roles within the tech industry. I bring a unique blend of technical prowess and strategic vision to drive innovation and achieve business objectives.

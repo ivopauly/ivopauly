@@ -23,13 +23,14 @@ I'm fervently dedicated to the concept of Infrastructure by Code continuously se
 - Strategic Technology Planning & Execution
 - Curious about Crypto, Blockchain, Web3 and AI
 - New languages on the horizon Solidity
-- 🚀 AWS & "You build it, you run it" Enthusiast 
-- 🌐 Cloud & Software Engineer @ Code Garden
-- 📍 The Netherlands
-- 🇳🇱 Native Dutch
-- 🇬🇧 English C1 (CEFR)
 
 ## 📬 Let's Connect!:
 I'm enthusiastic about connecting with professionals who share a passion for innovation and leveraging technology to drive impactful change. Reach out to explore potential collaborations or to apply for a position at Code Garden!
 
 * Link me on [LinkedIn](https://www.linkedin.com/in/ivopauly/)
+
+- 🚀 AWS & "You build it, you run it" Enthusiast 
+- 🌐 Cloud & Software Engineer @ Code Garden
+- 📍 The Netherlands
+- 🇳🇱 Native Dutch
+- 🇬🇧 English C1 (CEFR)

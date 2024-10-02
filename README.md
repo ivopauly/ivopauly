@@ -28,7 +28,6 @@ I'm fervently dedicated to the concept of Infrastructure by Code continuously se
 - DevOps Methodologies & Continuous Integration
 - Agile Practices & Scrum Mastery
 - Strategic Technology Planning & Execution
-- Curious about Crypto, Blockchain, Web3 and AI
 - New languages on the horizon Solidity
 
 ## 📬 Let's Connect!:

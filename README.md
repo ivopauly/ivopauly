@@ -1,6 +1,6 @@
 ## ℹ️ Info
 - 🚀 AWS & "You build it, you run it" Enthusiast 
-- 🌐 Cloud & Software Engineer @ Code Garden
+- 🌐 Tech Lead @ Code Garden
 - 📍 The Netherlands
 - 🇳🇱 Native Dutch
 - 🇬🇧 English C1 (CEFR)

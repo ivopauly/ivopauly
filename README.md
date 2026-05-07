@@ -1,34 +1,26 @@
-## ℹ️ Info
-- 🚀 AWS & "You build it, you run it" Enthusiast 
-- 🌐 Tech Lead @ Code Garden
-- 📍 The Netherlands
-- 🇳🇱 Native Dutch
-- 🇬🇧 English C1 (CEFR)
-- 👨🏻‍💻 MSc Computer Science
+## Executive Technology Leader & Architect of Agentic Systems.
 
+Translating 15+ years of Software Architecture, Cloud Transformation, and Software Engineering expertise into the next generation of enterprise automation through Orvanta.
 
-## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> Hello!
-I'm passionate about leveraging cutting-edge technology to revolutionise the fintech landscape. With over a decade of experience in IT development, I specialise in leading cloud transformations. I thrive at the intersection of technology, strategy, and innovation.
+Operating at the intersection of strategy and execution, the focus ranges from defining technical vision to mentoring hybrid teams (human and agentic). Leadership is guided by the Judo Principle: achieving maximum strategic leverage with minimal waste of capital, human effort, or computational overhead. To maintain this efficiency, lean architectures are prioritised by minimising code complexity and redundant data, while promoting Process-Driven Development (PDD) to ensure engineering innovation remains firmly aligned with business intent.
 
-## 🔍 Versatile Skill Set:
-My background spans JavaScript & Java focused full stack development across web and mobile spheres, offering a robust foundation in crafting user-centric solutions. I have seamlessly transitioned into Cloud & Software Engineering, leveraging this diverse experience to bridge development and operations for optimal efficiency. Started this journey as a full stack engineer by believing in the principle ‘You build it, you run it.’.
+## The Hybrid Advantage
+Deep architectural judgement is paired with hands-on delivery across AWS/GCP to shorten the path from concept to production. By eliminating infrastructure bloat and leveraging AI-accelerated lifecycles, speed is achieved without compromising reliability. All optimised for Unix-native (macOS/Linux) engineering stacks.
 
-## 💼 Seeking New Horizons:
-I'm open to exploring roles as a (Freelance) Cloud Engineer, DevOps Engineer, Software Engineer, Architecture or IT Management roles within the (fin)tech industry. I bring a unique blend of technical prowess and strategic vision to drive innovation and achieve business objectives.
+## Intelligent Automation
+Legacy BPM/DPA workflows are evolved into autonomous decision-making systems through the integration of AI agents and LLM-driven logic. By leveraging tools like Flowable, n8n, Windmill, and Orvanta, organisations are supported in their transition to self-optimising processes.
 
-## 🎯 Passionate Pursuits:
-Always looking for ways to automate and optimize systems and workflows. Beyond work, I enjoy spending quality time with my family, exploring tech trends like crypto. Music is another big part of my life, I love playing and teaching the saxophone (Alto, Tenor and Baritone).
+Currently targeting roles such as CTO (Chief Technology Officer), CDO (Chief Digital Officer), CAO (Chief Automation Officer), or Enterprise Architect, where I can bridge the gap between business vision and technical execution.
 
-## 🚀 Key Expertise:
-- MSc Student Computer Science at University of London
-- Certified AWS DevOps & Solutions Architect
-- Full Stack Development in JavaScript/TypeScript/Node.js, Java/Kotlin
-- Cloud Automation in Python, JavaScript, Bash/Shell Scripting, Go (Golang)
-- DevOps Methodologies & Continuous Integration
-- Agile Practices & Scrum Mastery
-- Strategic Technology Management
+## Core Expertise:
+- Strategy: AI Governance, Enterprise Architecture, Cloud Strategy, PDD (Process-Driven Development)
+- Engineering: TypeScript, Node.js, Java/Kotlin, Python, Go, Platform Engineering
+- Automation: Orvanta, Flowable, Windmill, n8n, OpenText Case360 (BPMN/CMMN)
+- Methodology: DevOps, CI/CD, Agile/SAFe, SRE
+- Education: MSc Computer Science (University of London)
+- Certifications: AWS Certified (DevOps Engineer, Solutions Architect)
+- Industries: Energy, Finance, Insurance
 
-## 📬 Let's Connect!:
-I'm enthusiastic about connecting with professionals who share a passion for innovation and leveraging technology to drive impactful change. Reach out to explore potential collaborations or to apply for a position at Code Garden!
+Open to connecting with leaders driving technological innovation. Feel free to reach out.
 
 * Link me on [LinkedIn](https://www.linkedin.com/in/ivopauly/)

@@ -1,4 +1,4 @@
-## Executive Technology Leader & Architect of Agentic Systems.
+## Executive Technology Leader & Architect of Agentic AI Systems.
 
 Translating 15+ years of Software Architecture, Cloud Transformation, and Software Engineering expertise into the next generation of enterprise automation through Orvanta.
 

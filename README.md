@@ -1,25 +1,40 @@
 ## Executive Technology Leader & Architect of Agentic AI Systems.
 
-Translating 15+ years of Software Architecture, Cloud Transformation, and Software Engineering expertise into the next generation of enterprise automation through Orvanta.
+Freelance Executive Technology Leader & Architect of Agentic AI Systems
 
-Operating at the intersection of strategy and execution, the focus ranges from defining technical vision to mentoring hybrid teams (human and agentic). Leadership is guided by the Judo Principle: achieving maximum strategic leverage with minimal waste of capital, human effort, or computational overhead. To maintain this efficiency, lean architectures are prioritised by minimising code complexity and redundant data, while promoting Process-Driven Development (PDD) to ensure engineering innovation remains firmly aligned with business intent.
+I build systems that think, act, and scale. I bridge 15+ years of full-stack engineering, enterprise data, and intelligent automation to architect the next generation of enterprise AI.
 
-## The Hybrid Advantage
-Deep architectural judgement is paired with hands-on delivery across AWS/GCP to shorten the path from concept to production. By eliminating infrastructure bloat and leveraging AI-accelerated lifecycles, speed is achieved without compromising reliability. All optimised for Unix-native (macOS/Linux) engineering stacks.
+After years of building robust digital pipelines and acting as an subject matter expert for legacy BPM/DPA, I realised the future of automation isn't just writing faster scripts. It is about autonomous agents capable of controllable cognitive decisions.
 
-## Intelligent Automation
-Legacy BPM/DPA workflows are evolved into autonomous decision-making systems through the integration of AI agents and LLM-driven logic. By leveraging tools like Flowable, n8n, Windmill, and Orvanta, organisations are supported in their transition to self-optimising processes.
+Today, I operate across two synergistic ventures:
 
-Currently targeting roles such as CTO (Chief Technology Officer), CDO (Chief Digital Officer), CAO (Chief Automation Officer), or Enterprise Architect, where I can bridge the gap between business vision and technical execution.
+## 🔸 Orvanta.ai (Founder & Principal AI Engineer):
+Building a next-generation Agentic Workflow Orchestration Platform. We empower businesses to replace legacy workflows with self-optimising, LLM-driven autonomous systems.
+
+## 🔹 Code Garden (Freelance Lead AI & Automation Consultant):
+Designs and builds smart technology systems, creates digital work plans, and helps companies save time. Bridge the gap between business needs and complex tech tools in real-world constraints. I deliver hands-on freelance consulting for organisations needing complex full-stack engineering, DevOps pipelines, and AI integrations.
+
+## The Hybrid Advantage & Philosophy
+
+My leadership is guided by the Judo Principle: achieving maximum strategic leverage with minimal waste of capital, effort, or computational overhead.
+
+I am uncompromisingly quality-driven and unapologetically outcome-focused. I value mission success and candid communication over consensus. I relentlessly balance speed, cost, and quality to achieve the goal—even if that means actively challenging the status quo.
+
+By pairing deep architectural judgement with hands-on delivery (AWS/GCP) and Process-Driven Development (PDD), I ensure engineering innovation stays strictly aligned with business intent.
+
+## Target Roles
+
+Available for interim, fractional, or freelance partnerships as a CTO, Chief Digital Officer (CDO), Chief Automation Officer (CAO), or Enterprise/Agentic AI Architect.
 
 ## Core Expertise:
-- Strategy: AI Governance, Enterprise Architecture, Cloud Strategy, PDD (Process-Driven Development)
-- Engineering: TypeScript, Node.js, Java/Kotlin, Python, Go, Platform Engineering
-- Automation: Orvanta, Flowable, Windmill, n8n, OpenText Case360 (BPMN/CMMN)
-- Methodology: DevOps, CI/CD, Agile/SAFe, SRE
-- Education: MSc Computer Science (University of London)
-- Certifications: AWS Certified (DevOps Engineer, Solutions Architect)
-- Industries: Energy, Finance, Insurance
+- Strategy: AI Governance, Enterprise Architecture, Cloud Strategy, PDD
+- Engineering: TypeScript, Node.js, Java, Kotlin, Python, Rust, Platform Eng.
+- Automation: Orvanta, Flowable, Camunda, Orkes, n8n, Case360 (BPMN)
+- Methodology: DevOps, CI/CD, Agile/SAFe, SRE
+- Credentials: MSc Computer Science (Univ. of London) | AWS Certified (DevOps Engineer, Solutions Architect)
+- Industries: Energy, Finance, Insurance
+
+Let's connect for enterprise-grade freelance technology leadership (Code Garden) or to explore the future of autonomous workflows with our platform (Orvanta).
 
 Open to connecting with leaders driving technological innovation. Feel free to reach out.
 

@@ -1,41 +1,36 @@
-## Executive Technology Leader & Architect of Agentic AI Systems.
+## Available exclusively for freelance assignments starting from May 2027.
 
-Freelance Executive Technology Leader & Architect of Agentic AI Systems
+## Polyglot AI Software Engineer & Architect of Agentic Automation Systems
 
-I build systems that think, act, and scale. I bridge 15+ years of full-stack engineering, enterprise data, and intelligent automation to architect the next generation of enterprise AI.
+I build systems that think, act, and scale.
 
-After years of building robust digital pipelines and acting as an subject matter expert for legacy BPM/DPA, I realised the future of automation isn't just writing faster scripts. It is about autonomous agents capable of controllable cognitive decisions.
+As an experienced software engineer with an architecture-driven mindset, I translate complex challenges into enterprise-grade infrastructure. While my expertise lies in TypeScript and Python, I am a polyglot programmer: I choose the right tool for the job, regardless of the runtime or language. From autonomous agent workflows to robust backend architectures
 
-Today, I operate across two synergistic ventures:
+I use my Python expertise to dive deep into AI: training and optimising LLMs, refining model harnessing, and engineering robust RAG and MCP solutions.
 
-## 🔸 Orvanta.ai (Founder & Principal AI Engineer):
-Building a next-generation Agentic Workflow Orchestration Platform. We empower businesses to replace legacy workflows with self-optimising, LLM-driven autonomous systems.
+To channel these capabilities, I operate across two synergistic ventures:
 
-## 🔹 Code Garden (Freelance Lead AI & Automation Consultant):
-Designs and builds smart technology systems, creates digital work plans, and helps companies save time. Bridge the gap between business needs and complex tech tools in real-world constraints. I deliver hands-on freelance consulting for organisations needing complex full-stack engineering, DevOps pipelines, and AI integrations.
+### 🔸 Orvanta.ai (Founder & Principal AI Engineer):
+This platform showcases my AI Engineering and Architecture skills. We are building a next-generation Agentic Workflow Orchestration Platform that empowers businesses to replace legacy workflows with self-optimising, LLM-driven autonomous systems.
 
-## The Hybrid Advantage & Philosophy
+###🔹 Code Garden (Director & AI Software Engineer & Architect):
+This company is the showcase for my Software Engineering and Architecture skills. I bridge the gap between business needs and complex tech tools, delivering hands-on full-stack engineering, DevOps pipelines, and smart digital systems that save organisations massive amounts of time.
 
-My leadership is guided by the Judo Principle: achieving maximum strategic leverage with minimal waste of capital, effort, or computational overhead.
+### The Automation Synergy
+Combine both ventures, and you get a holistic Automation Engineer. I automate everything from mundane daily developer tasks to cognitive decisions in complex enterprise infrastructures and everything in between.
 
-I am uncompromisingly quality-driven and unapologetically outcome-focused. I value mission success and candid communication over consensus. I relentlessly balance speed, cost, and quality to achieve the goal—even if that means actively challenging the status quo.
+### The Hybrid Advantage & Philosophy
+My leadership follows the Judo Principle: achieving maximum strategic leverage with minimal waste of capital, effort, or computational overhead. By pairing deep architectural judgment with hands-on delivery (AWS/GCP/Azure) and Process-Driven Development (PDD), I ensure engineering innovation stays strictly aligned with business intent.
 
-By pairing deep architectural judgement with hands-on delivery (AWS/GCP) and Process-Driven Development (PDD), I ensure engineering innovation stays strictly aligned with business intent.
+### Core Expertise:
 
-## Target Roles
-
-Available for interim, fractional, or freelance partnerships as a CTO, Chief Digital Officer (CDO), Chief Automation Officer (CAO), or Enterprise/Agentic AI Architect.
-
-## Core Expertise:
 - Strategy: AI Governance, Enterprise Architecture, Cloud Strategy, PDD
-- Engineering: TypeScript, Node.js, Java, Kotlin, Python, Rust, Platform Eng.
+- Engineering: TypeScript, Node.js, Java, Kotlin, PHP, Python, Rust, .NET
 - Automation: Orvanta, Flowable, Camunda, Orkes, n8n, Case360 (BPMN)
 - Methodology: DevOps, CI/CD, Agile/SAFe, SRE
-- Credentials: MSc Computer Science (Univ. of London) | AWS Certified (DevOps Engineer, Solutions Architect)
-- Industries: Energy, Finance, Insurance
+- Credentials: MSc Computer Science (Univ. of London) | AWS Certified
+- Industries: Energy, Finance, Taxes, Insurance
 
 Let's connect for enterprise-grade freelance technology leadership (Code Garden) or to explore the future of autonomous workflows with our platform (Orvanta).
 
-Open to connecting with leaders driving technological innovation. Feel free to reach out.
-
-* Link me on [LinkedIn](https://www.linkedin.com/in/ivopauly/)
+* Link to me on [LinkedIn](https://www.linkedin.com/in/ivopauly/)

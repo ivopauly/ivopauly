@@ -13,7 +13,7 @@ To channel these capabilities, I operate across two synergistic ventures:
 ### 🔸 Orvanta.ai (Founder & Principal AI Engineer):
 This platform showcases my AI Engineering and Architecture skills. We are building a next-generation Agentic Workflow Orchestration Platform that empowers businesses to replace legacy workflows with self-optimising, LLM-driven autonomous systems.
 
-###🔹 Code Garden (Director & AI Software Engineer & Architect):
+### 🔹 Code Garden (Director & AI Software Engineer & Architect):
 This company is the showcase for my Software Engineering and Architecture skills. I bridge the gap between business needs and complex tech tools, delivering hands-on full-stack engineering, DevOps pipelines, and smart digital systems that save organisations massive amounts of time.
 
 ### The Automation Synergy
